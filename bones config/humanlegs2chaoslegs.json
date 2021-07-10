@@ -1,0 +1,1466 @@
+{
+  "MeshBones": [
+    {
+      "Name": "animroot",
+      "Children": [
+        {
+          "Name": "be_prop_0",
+          "Children": [],
+          "IsUsedByCurrentModel": false,
+          "BoneIndex": 1,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_1",
+          "Children": [],
+          "IsUsedByCurrentModel": false,
+          "BoneIndex": 2,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_2",
+          "Children": [],
+          "IsUsedByCurrentModel": false,
+          "BoneIndex": 3,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_3",
+          "Children": [],
+          "IsUsedByCurrentModel": false,
+          "BoneIndex": 4,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_4",
+          "Children": [],
+          "IsUsedByCurrentModel": false,
+          "BoneIndex": 5,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_5",
+          "Children": [],
+          "IsUsedByCurrentModel": false,
+          "BoneIndex": 6,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "root",
+          "Children": [
+            {
+              "Name": "spine_0",
+              "Children": [
+                {
+                  "Name": "spine_1",
+                  "Children": [
+                    {
+                      "Name": "spine_2",
+                      "Children": [
+                        {
+                          "Name": "clav_left",
+                          "Children": [
+                            {
+                              "Name": "upperarm_left",
+                              "Children": [
+                                {
+                                  "Name": "lowerarm_left",
+                                  "Children": [
+                                    {
+                                      "Name": "hand_left",
+                                      "Children": [
+                                        {
+                                          "Name": "finger_index_left_0",
+                                          "Children": [
+                                            {
+                                              "Name": "finger_index_left_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "finger_index_left_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": false,
+                                                  "BoneIndex": 45,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": false,
+                                              "BoneIndex": 39,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": false,
+                                          "BoneIndex": 33,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        },
+                                        {
+                                          "Name": "finger_ring_left_0",
+                                          "Children": [
+                                            {
+                                              "Name": "finger_ring_left_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "finger_ring_left_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": false,
+                                                  "BoneIndex": 47,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": false,
+                                              "BoneIndex": 41,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": false,
+                                          "BoneIndex": 35,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        },
+                                        {
+                                          "Name": "thumb_left_0",
+                                          "Children": [
+                                            {
+                                              "Name": "thumb_left_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "thumb_left_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": false,
+                                                  "BoneIndex": 49,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": false,
+                                              "BoneIndex": 43,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": false,
+                                          "BoneIndex": 37,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": false,
+                                      "BoneIndex": 29,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "lowerarm_roll_left_0",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": false,
+                                      "BoneIndex": 31,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 25,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "upperarm_roll_left_0",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 27,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                }
+                              ],
+                              "IsUsedByCurrentModel": false,
+                              "BoneIndex": 23,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            },
+                            {
+                              "Name": "shoulder_pad_left",
+                              "Children": [],
+                              "IsUsedByCurrentModel": false,
+                              "BoneIndex": 55,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            }
+                          ],
+                          "IsUsedByCurrentModel": false,
+                          "BoneIndex": 17,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        },
+                        {
+                          "Name": "clav_right",
+                          "Children": [
+                            {
+                              "Name": "upperarm_right",
+                              "Children": [
+                                {
+                                  "Name": "lowerarm_right",
+                                  "Children": [
+                                    {
+                                      "Name": "hand_right",
+                                      "Children": [
+                                        {
+                                          "Name": "finger_index_right_0",
+                                          "Children": [
+                                            {
+                                              "Name": "finger_index_right_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "finger_index_right_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": false,
+                                                  "BoneIndex": 46,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": false,
+                                              "BoneIndex": 40,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": false,
+                                          "BoneIndex": 34,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        },
+                                        {
+                                          "Name": "finger_ring_right_0",
+                                          "Children": [
+                                            {
+                                              "Name": "finger_ring_right_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "finger_ring_right_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": false,
+                                                  "BoneIndex": 48,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": false,
+                                              "BoneIndex": 42,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": false,
+                                          "BoneIndex": 36,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        },
+                                        {
+                                          "Name": "thumb_right_0",
+                                          "Children": [
+                                            {
+                                              "Name": "thumb_right_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "thumb_right_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": false,
+                                                  "BoneIndex": 50,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": false,
+                                              "BoneIndex": 44,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": false,
+                                          "BoneIndex": 38,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": false,
+                                      "BoneIndex": 30,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "lowerarm_roll_right_0",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": false,
+                                      "BoneIndex": 32,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 26,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "upperarm_roll_right_0",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 28,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                }
+                              ],
+                              "IsUsedByCurrentModel": false,
+                              "BoneIndex": 24,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            },
+                            {
+                              "Name": "shoulder_pad_right",
+                              "Children": [],
+                              "IsUsedByCurrentModel": false,
+                              "BoneIndex": 56,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            }
+                          ],
+                          "IsUsedByCurrentModel": false,
+                          "BoneIndex": 18,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        },
+                        {
+                          "Name": "neck_0",
+                          "Children": [
+                            {
+                              "Name": "head",
+                              "Children": [
+                                {
+                                  "Name": "eye_left",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 51,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "eye_right",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 52,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "eyebrow",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 53,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "jaw",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 54,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                }
+                              ],
+                              "IsUsedByCurrentModel": false,
+                              "BoneIndex": 22,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            }
+                          ],
+                          "IsUsedByCurrentModel": false,
+                          "BoneIndex": 19,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        },
+                        {
+                          "Name": "cape_0",
+                          "Children": [
+                            {
+                              "Name": "cape_1",
+                              "Children": [
+                                {
+                                  "Name": "cape_left_0",
+                                  "Children": [
+                                    {
+                                      "Name": "cape_left_1",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": false,
+                                      "BoneIndex": 69,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 66,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "cape_middle_0",
+                                  "Children": [
+                                    {
+                                      "Name": "cape_middle_1",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": false,
+                                      "BoneIndex": 70,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 67,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "cape_right_0",
+                                  "Children": [
+                                    {
+                                      "Name": "cape_right_1",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": false,
+                                      "BoneIndex": 71,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": false,
+                                  "BoneIndex": 68,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                }
+                              ],
+                              "IsUsedByCurrentModel": false,
+                              "BoneIndex": 65,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            }
+                          ],
+                          "IsUsedByCurrentModel": false,
+                          "BoneIndex": 64,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        }
+                      ],
+                      "IsUsedByCurrentModel": false,
+                      "BoneIndex": 16,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    }
+                  ],
+                  "IsUsedByCurrentModel": false,
+                  "BoneIndex": 13,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 8,
+              "MappedBoneName": "spine_0",
+              "MappedBoneIndex": 8
+            },
+            {
+              "Name": "upperleg_left",
+              "Children": [
+                {
+                  "Name": "lowerleg_left",
+                  "Children": [
+                    {
+                      "Name": "foot_left",
+                      "Children": [
+                        {
+                          "Name": "toe_left_0",
+                          "Children": [],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 20,
+                          "MappedBoneName": "toe_left_0",
+                          "MappedBoneIndex": 20
+                        }
+                      ],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 14,
+                      "MappedBoneName": "foot_left",
+                      "MappedBoneIndex": 14
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 11,
+                  "MappedBoneName": "lowerleg_left",
+                  "MappedBoneIndex": 11
+                },
+                {
+                  "Name": "skirt_front_left_0",
+                  "Children": [
+                    {
+                      "Name": "skirt_front_left_1",
+                      "Children": [],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 62,
+                      "MappedBoneName": "skirt_left_0",
+                      "MappedBoneIndex": 63
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 59,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 9,
+              "MappedBoneName": "upperleg_left",
+              "MappedBoneIndex": 9
+            },
+            {
+              "Name": "upperleg_right",
+              "Children": [
+                {
+                  "Name": "lowerleg_right",
+                  "Children": [
+                    {
+                      "Name": "foot_right",
+                      "Children": [
+                        {
+                          "Name": "toe_right_0",
+                          "Children": [],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 21,
+                          "MappedBoneName": "toe_right_0",
+                          "MappedBoneIndex": 21
+                        }
+                      ],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 15,
+                      "MappedBoneName": "foot_right",
+                      "MappedBoneIndex": 15
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 12,
+                  "MappedBoneName": "lowerleg_right",
+                  "MappedBoneIndex": 12
+                },
+                {
+                  "Name": "skirt_front_right_0",
+                  "Children": [
+                    {
+                      "Name": "skirt_front_right_1",
+                      "Children": [],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 63,
+                      "MappedBoneName": "skirt_right_0",
+                      "MappedBoneIndex": 65
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 60,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 10,
+              "MappedBoneName": "upperleg_right",
+              "MappedBoneIndex": 10
+            },
+            {
+              "Name": "skirt_back_0",
+              "Children": [
+                {
+                  "Name": "skirt_back_1",
+                  "Children": [
+                    {
+                      "Name": "skirt_back_2",
+                      "Children": [],
+                      "IsUsedByCurrentModel": false,
+                      "BoneIndex": 61,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 58,
+                  "MappedBoneName": "skirt_back_1",
+                  "MappedBoneIndex": 76
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 57,
+              "MappedBoneName": "skirt_back_0",
+              "MappedBoneIndex": 61
+            }
+          ],
+          "IsUsedByCurrentModel": true,
+          "BoneIndex": 7,
+          "MappedBoneName": "root",
+          "MappedBoneIndex": 7
+        }
+      ],
+      "IsUsedByCurrentModel": false,
+      "BoneIndex": 0,
+      "MappedBoneName": "animroot",
+      "MappedBoneIndex": 0
+    }
+  ],
+  "MeshSkeletonName": "humanoid01",
+  "ParentModelBones": [
+    {
+      "Name": "animroot",
+      "Children": [
+        {
+          "Name": "be_prop_0",
+          "Children": [],
+          "IsUsedByCurrentModel": true,
+          "BoneIndex": 1,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_1",
+          "Children": [],
+          "IsUsedByCurrentModel": true,
+          "BoneIndex": 2,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_2",
+          "Children": [],
+          "IsUsedByCurrentModel": true,
+          "BoneIndex": 3,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_3",
+          "Children": [],
+          "IsUsedByCurrentModel": true,
+          "BoneIndex": 4,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_4",
+          "Children": [],
+          "IsUsedByCurrentModel": true,
+          "BoneIndex": 5,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "be_prop_5",
+          "Children": [],
+          "IsUsedByCurrentModel": true,
+          "BoneIndex": 6,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        },
+        {
+          "Name": "root",
+          "Children": [
+            {
+              "Name": "spine_0",
+              "Children": [
+                {
+                  "Name": "spine_1",
+                  "Children": [
+                    {
+                      "Name": "spine_2",
+                      "Children": [
+                        {
+                          "Name": "clav_left",
+                          "Children": [
+                            {
+                              "Name": "upperarm_left",
+                              "Children": [
+                                {
+                                  "Name": "lowerarm_left",
+                                  "Children": [
+                                    {
+                                      "Name": "hand_left",
+                                      "Children": [
+                                        {
+                                          "Name": "finger_index_left_0",
+                                          "Children": [
+                                            {
+                                              "Name": "finger_index_left_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "finger_index_left_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": true,
+                                                  "BoneIndex": 45,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": true,
+                                              "BoneIndex": 39,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 33,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        },
+                                        {
+                                          "Name": "finger_ring_left_0",
+                                          "Children": [
+                                            {
+                                              "Name": "finger_ring_left_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "finger_ring_left_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": true,
+                                                  "BoneIndex": 47,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": true,
+                                              "BoneIndex": 41,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 35,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        },
+                                        {
+                                          "Name": "thumb_left_0",
+                                          "Children": [
+                                            {
+                                              "Name": "thumb_left_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "thumb_left_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": true,
+                                                  "BoneIndex": 49,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": true,
+                                              "BoneIndex": 43,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 37,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 29,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "lowerarm_roll_left_0",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 31,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "elbowpad_left_0",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 59,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 25,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "upperarm_roll_left_0",
+                                  "Children": [
+                                    {
+                                      "Name": "arm_tentacle_left_0_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_left_0_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 88,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 78,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "arm_tentacle_left_1_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_left_1_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 89,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 79,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "arm_tentacle_left_2_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_left_2_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 90,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 80,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "arm_tentacle_left_3_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_left_3_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 91,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 81,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "arm_tentacle_left_4_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_left_4_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 92,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 82,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 27,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                }
+                              ],
+                              "IsUsedByCurrentModel": true,
+                              "BoneIndex": 23,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            },
+                            {
+                              "Name": "shoulderpad_left_0",
+                              "Children": [],
+                              "IsUsedByCurrentModel": true,
+                              "BoneIndex": 57,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            }
+                          ],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 17,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        },
+                        {
+                          "Name": "clav_right",
+                          "Children": [
+                            {
+                              "Name": "upperarm_right",
+                              "Children": [
+                                {
+                                  "Name": "lowerarm_right",
+                                  "Children": [
+                                    {
+                                      "Name": "hand_right",
+                                      "Children": [
+                                        {
+                                          "Name": "finger_index_right_0",
+                                          "Children": [
+                                            {
+                                              "Name": "finger_index_right_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "finger_index_right_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": true,
+                                                  "BoneIndex": 46,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": true,
+                                              "BoneIndex": 40,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 34,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        },
+                                        {
+                                          "Name": "finger_ring_right_0",
+                                          "Children": [
+                                            {
+                                              "Name": "finger_ring_right_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "finger_ring_right_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": true,
+                                                  "BoneIndex": 48,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": true,
+                                              "BoneIndex": 42,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 36,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        },
+                                        {
+                                          "Name": "thumb_right_0",
+                                          "Children": [
+                                            {
+                                              "Name": "thumb_right_1",
+                                              "Children": [
+                                                {
+                                                  "Name": "thumb_right_2",
+                                                  "Children": [],
+                                                  "IsUsedByCurrentModel": true,
+                                                  "BoneIndex": 50,
+                                                  "MappedBoneName": null,
+                                                  "MappedBoneIndex": -1
+                                                }
+                                              ],
+                                              "IsUsedByCurrentModel": true,
+                                              "BoneIndex": 44,
+                                              "MappedBoneName": null,
+                                              "MappedBoneIndex": -1
+                                            }
+                                          ],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 38,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 30,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "lowerarm_roll_right_0",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 32,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "elbowpad_right_0",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 60,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 26,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "upperarm_roll_right_0",
+                                  "Children": [
+                                    {
+                                      "Name": "arm_tentacle_right_0_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_right_0_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 93,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 83,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "arm_tentacle_right_1_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_right_1_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 94,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 84,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "arm_tentacle_right_2_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_right_2_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 95,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 85,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "arm_tentacle_right_3_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_right_3_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 96,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 86,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    },
+                                    {
+                                      "Name": "arm_tentacle_right_4_0",
+                                      "Children": [
+                                        {
+                                          "Name": "arm_tentacle_right_4_1",
+                                          "Children": [],
+                                          "IsUsedByCurrentModel": true,
+                                          "BoneIndex": 97,
+                                          "MappedBoneName": null,
+                                          "MappedBoneIndex": -1
+                                        }
+                                      ],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 87,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 28,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                }
+                              ],
+                              "IsUsedByCurrentModel": true,
+                              "BoneIndex": 24,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            },
+                            {
+                              "Name": "shoulderpad_right_0",
+                              "Children": [],
+                              "IsUsedByCurrentModel": true,
+                              "BoneIndex": 58,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            }
+                          ],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 18,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        },
+                        {
+                          "Name": "neck_0",
+                          "Children": [
+                            {
+                              "Name": "head",
+                              "Children": [
+                                {
+                                  "Name": "eyebrow",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 51,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "eyelid_left_0",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 52,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "eyelid_right_0",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 53,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "jaw_0",
+                                  "Children": [],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 54,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                }
+                              ],
+                              "IsUsedByCurrentModel": true,
+                              "BoneIndex": 22,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            }
+                          ],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 19,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        },
+                        {
+                          "Name": "cape_0",
+                          "Children": [
+                            {
+                              "Name": "cape_1",
+                              "Children": [
+                                {
+                                  "Name": "cape_left_0",
+                                  "Children": [
+                                    {
+                                      "Name": "cape_left_1",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 73,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 70,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "cape_middle_0",
+                                  "Children": [
+                                    {
+                                      "Name": "cape_middle_1",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 74,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 71,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                },
+                                {
+                                  "Name": "cape_right_0",
+                                  "Children": [
+                                    {
+                                      "Name": "cape_right_1",
+                                      "Children": [],
+                                      "IsUsedByCurrentModel": true,
+                                      "BoneIndex": 75,
+                                      "MappedBoneName": null,
+                                      "MappedBoneIndex": -1
+                                    }
+                                  ],
+                                  "IsUsedByCurrentModel": true,
+                                  "BoneIndex": 72,
+                                  "MappedBoneName": null,
+                                  "MappedBoneIndex": -1
+                                }
+                              ],
+                              "IsUsedByCurrentModel": true,
+                              "BoneIndex": 69,
+                              "MappedBoneName": null,
+                              "MappedBoneIndex": -1
+                            }
+                          ],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 67,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        }
+                      ],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 16,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 13,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 8,
+              "MappedBoneName": null,
+              "MappedBoneIndex": -1
+            },
+            {
+              "Name": "upperleg_left",
+              "Children": [
+                {
+                  "Name": "lowerleg_left",
+                  "Children": [
+                    {
+                      "Name": "foot_left",
+                      "Children": [
+                        {
+                          "Name": "toe_left_0",
+                          "Children": [],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 20,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        }
+                      ],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 14,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    },
+                    {
+                      "Name": "kneepad_left_0",
+                      "Children": [],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 55,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 11,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                },
+                {
+                  "Name": "skirt_left_0",
+                  "Children": [],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 63,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 9,
+              "MappedBoneName": null,
+              "MappedBoneIndex": -1
+            },
+            {
+              "Name": "upperleg_right",
+              "Children": [
+                {
+                  "Name": "lowerleg_right",
+                  "Children": [
+                    {
+                      "Name": "foot_right",
+                      "Children": [
+                        {
+                          "Name": "toe_right_0",
+                          "Children": [],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 21,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        }
+                      ],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 15,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    },
+                    {
+                      "Name": "kneepad_right_0",
+                      "Children": [],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 56,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 12,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                },
+                {
+                  "Name": "skirt_right_0",
+                  "Children": [],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 65,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 10,
+              "MappedBoneName": null,
+              "MappedBoneIndex": -1
+            },
+            {
+              "Name": "skirt_back_0",
+              "Children": [
+                {
+                  "Name": "skirt_back_1",
+                  "Children": [
+                    {
+                      "Name": "skirt_back_2",
+                      "Children": [],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 77,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 76,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 61,
+              "MappedBoneName": null,
+              "MappedBoneIndex": -1
+            },
+            {
+              "Name": "skirt_middle_0",
+              "Children": [
+                {
+                  "Name": "skirt_middle_1",
+                  "Children": [
+                    {
+                      "Name": "skirt_middle_2",
+                      "Children": [
+                        {
+                          "Name": "skirt_middle_3",
+                          "Children": [],
+                          "IsUsedByCurrentModel": true,
+                          "BoneIndex": 68,
+                          "MappedBoneName": null,
+                          "MappedBoneIndex": -1
+                        }
+                      ],
+                      "IsUsedByCurrentModel": true,
+                      "BoneIndex": 66,
+                      "MappedBoneName": null,
+                      "MappedBoneIndex": -1
+                    }
+                  ],
+                  "IsUsedByCurrentModel": true,
+                  "BoneIndex": 64,
+                  "MappedBoneName": null,
+                  "MappedBoneIndex": -1
+                }
+              ],
+              "IsUsedByCurrentModel": true,
+              "BoneIndex": 62,
+              "MappedBoneName": null,
+              "MappedBoneIndex": -1
+            }
+          ],
+          "IsUsedByCurrentModel": true,
+          "BoneIndex": 7,
+          "MappedBoneName": null,
+          "MappedBoneIndex": -1
+        }
+      ],
+      "IsUsedByCurrentModel": true,
+      "BoneIndex": 0,
+      "MappedBoneName": null,
+      "MappedBoneIndex": -1
+    }
+  ],
+  "ParnetModelSkeletonName": "humanoid01c",
+  "MoveMeshToFit": false
+}
